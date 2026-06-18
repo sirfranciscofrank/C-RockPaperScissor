@@ -1,5 +1,11 @@
 # 🪨📄✂️ RPSgame
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Xubuntu-0078D4?style=for-the-badge&logo=xubuntu&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![GCC](https://img.shields.io/badge/gcc-FF9900?style=for-the-badge&logo=gnu&logoColor=white)
+![Status](https://img.shields.io/badge/status-in%20training-brightgreen?style=for-the-badge)
+
 ## ⚔️ The Mission
 
 Rock, Paper, Scissors — built from scratch in C as a fundamentals exercise.
